@@ -1,1 +1,21 @@
-
+{
+  "name": "BFF",
+  "symbol": "BFF",
+  "description": "Bitforefront",
+  "image": "https://gateway.irys.xyz/F9495W-WsJ4UJhYjiv0HilBMqxuM2idDky1WDRR9Y3k",
+  "extensions": {
+    "website": "https://bitforefront.xyz",
+    "twitter": "https://twitter.com/bitforefront",
+    "description": "Bitforefront - End user friendly AI News, Know-how, Exchange, Gift Cards for people to Live On Crypto!",
+    "coingeckoId": "bff"
+  },
+  "creator": {
+    "name": "Bitforefront",
+    "website": "https://bitforefront.xyz"
+  },
+  "tags": [
+    "AI",
+    "LiveOnCrypto",
+    "DEX"
+  ]
+}
